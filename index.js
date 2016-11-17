@@ -1,6 +1,6 @@
 const mount = require('choo/mount')
-const css = require("sheetify")
-const html = require("bel")
+const css = require('sheetify')
+const html = require('bel')
 
 css('dat-colors')
 css('tachyons')

@@ -1,16 +1,21 @@
 {
   "name": "testsheetify",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "bankai"
   },
   "keywords": [],
   "author": "Kristina Schneider (http://kristinaschneider.com)",
   "license": "ISC",
   "dependencies": {
+    "bankai": "^5.0.1",
+    "bel": "^4.5.0",
     "choo": "^4.0.0-5",
+    "dat-colors": "^1.0.0",
+    "sheetify": "^6.0.1",
     "tachyons": "^4.5.5"
   }
 }
